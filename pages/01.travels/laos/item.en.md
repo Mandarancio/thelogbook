@@ -1,6 +1,11 @@
 ---
 title: Laos
 media_order: Huay-Xai-tuttolaos.jpg
+taxonomy:
+    tag:
+        - Asia
+        - South-east
+        - Plan
 ---
 
 Laos can be divided in 3 main regions, the north, the center and the south reagion. This is the only country of the Indochina Peninsula without access to the sea and it is sorrounded by China in the North, Myanmar in the North-West, Thailand in the West, Cambodia in the South/South-West and Vietnam in the East side.
