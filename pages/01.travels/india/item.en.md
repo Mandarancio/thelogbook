@@ -1,6 +1,7 @@
 ---
 title: India
 media_order: 'backwater.jpg,alleppey.jpg,munnar.jpg,cochin-fort-kochi.jpg'
+tags: Asia
 ---
 
 ## South India
