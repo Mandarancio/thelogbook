@@ -3,8 +3,8 @@ title: India
 media_order: 'backwater.jpg,alleppey.jpg,munnar.jpg,cochin-fort-kochi.jpg'
 taxonomy:
     tag:
-        - animal
-        - cat
+        - Asia
+        - Plan
 ---
 
 ## South India
