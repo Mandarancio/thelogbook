@@ -16,6 +16,7 @@ This will be probably the first region we will visit, the access can be done or 
 
 ### Huay Xai
 ![Virew of the city](Huay-Xai-tuttolaos.jpg)
+
 _Huay Xai_ is one of the possible entry point to Laos for our trip, it is situated in the West extrimity of Laos over the Thailand Border. The city itself is nice and calm however its main attraction is the **Gibbon Experience** that start from here even if it is located in the _Bokeo_ natural park.
 
 **Nights: 1 in the city, 3 for the Gibbon Experience**
@@ -28,6 +29,7 @@ _Huay Xai_ is one of the possible entry point to Laos for our trip, it is situat
 
 ### Luang Prabang
 ![City from above](http://static.asiawebdirect.com/m/bangkok/portals/laos/shared/teasersL/luang-prabang/luang-prabang-info/teaserMultiLarge/imageHilight/teaser.jpeg.jpg)
+
 Fortunatly is one of the few cities untouched by the USA bombing, as it was the base of USA allied forces, this is the most beutiful and pleasant city of _Laos_, reach of temples, monuments and old bulding. Spending few days between the Mekong and the Nam Ou river is highly racomendet, Luang Prabang was the ancient capital of the _Laos Kingdom_ (before the French moved the capital to _Vientiane_) and preserve today a relaxed ambience, excellent food and nice country side.
 
 **Nights: 3/4**
@@ -42,6 +44,7 @@ Fortunatly is one of the few cities untouched by the USA bombing, as it was the 
 ### Nam Ou (Muang Ngoi Neua)
 
 ![River view](https://redwhitelost.files.wordpress.com/2013/01/muang-ngoi-4.jpg)
+
 It is possible to spend few days to enjoy the river life on this carsic  and impressive valley, kayak and crouise will be the highlight of Nam Ou, just on north of _Luang Prabang_.
 
 **Nights: 1/2**
@@ -54,6 +57,7 @@ It is possible to spend few days to enjoy the river life on this carsic  and imp
 
 ### Phongsali
 ![A village](https://vientianetravellershouse.com/wp-content/uploads/2017/09/phongsali_activities_3.jpg)
+
 Phongsali is the main city in the northest part of _Laos_ close to _China_, this altitude city is the ideal base to explore the sorounding mountains, land of many differents and interesting cultures. Treks from 1 to 5 days are possibles here.
 
 **Nights: depending on trek (min 3)**
