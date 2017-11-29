@@ -20,6 +20,7 @@ The most loved region of India from backpackers and turists, people are warm and
 
 #### Kochin
 ![](cochin-fort-kochi.jpg)
+
 An old colonial city with a very active port and varied architecture, is a good entry point to the region as it possible to arrive here by bus, train and plane.
 A part to enjoy the port life, there are some interesting sightseeing to do here, such as the _Fort Cochin and Mattancherry_, the _Dutch Palace_ and the different religious centers. From here is possible to do a daily excursion on the backwater (45 min bus to _Vaikom_).
 
@@ -27,6 +28,7 @@ A part to enjoy the port life, there are some interesting sightseeing to do here
 
 #### Backwater
 ![](backwater.jpg)
+
 This lacustrine region just few kilometers from the ocean is beatiful and relaxing, it is possible to organize excursions from different points, _Kochin_ (as already introduced) but more popular choices are: _Alleppey_, _Quilon_ and _Kottayam_. 
 It is possible however to sleep on place to enjoy even more the ambience of this place, the best lake hotels are in _Kumarakom_ (but chic).
 
@@ -34,6 +36,7 @@ It is possible however to sleep on place to enjoy even more the ambience of this
 
 #### Alleppey
 ![](alleppey.jpg)
+
 Alleppey is not only a great entry point to the _backwater_ but has as well a great beach. 
 
 #### Munnar
